@@ -33,7 +33,7 @@ class PensionDetailServiceTest {
 	 * throws NumberFormatException, IOException, AadharNumberNotFoundException,
 	 * ParseException {
 	 * 
-	 * PensionerDetail pensionerDetail = new PensionerDetail("Padmini",
+	 * PensionerDetail pensionerDetail = new PensionerDetail("Sudarshan",
 	 * DateUtil.parseDate("30-08-2000"), "PCASD1234Q", 45000, 2000, "family", new
 	 * Bank("SBI", 11223344, "private"));
 	 * 
